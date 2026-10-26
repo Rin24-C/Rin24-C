@@ -8,7 +8,7 @@ Exploring and analyzing the world of data one step at a time. Currently interest
 - Tableau
 
 ### Other links
-- [LinkedIn](www.linkedin.com/in/rinald-mesa)
+- [LinkedIn](https://ph.linkedin.com/in/rinald-mesa)
 - [Facebook](https://www.facebook.com/rinald.mesa)
 
 
