@@ -1,6 +1,6 @@
 ## Welcome
 
-Exploring and analyzing the world of data one step at a time. Currently interested in financial, marketing, and business data analyses. 
+Exploring and analyzing the world of data one step at a time. Currently interested in sociopolitical, financial, marketing, and business data analyses. 
 
 ### Tools
 - MS Excel, Google Sheets
