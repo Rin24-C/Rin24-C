@@ -1,5 +1,7 @@
 ## Welcome
 
+
+<img width="1584" height="396" alt="Black and White Professional Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b07eedb4-dea6-4adb-bf3d-6bb94fb96d92" />
 Exploring and analyzing the world of data one step at a time. Currently interested in sociopolitical, financial, marketing, and business data analyses. 
 
 ### Tools
